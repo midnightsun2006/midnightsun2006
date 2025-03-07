@@ -1,8 +1,20 @@
-## Hi there 👋
+# About
 
+## Information
+Name : Cho Yunseo <br/>
+Nickname : okmy729, okmy912, midnight_sun <br/>
+Email : okmy912@ajou.ac.kr
 
+## Organization
+2022 ~ 2024 : Seoksan High school <br/>
+2025 ~ now : Ajou university(Cyber Security)
+
+## Stat
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/okmy729)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=okmy729)](https://solved.ac/{okmy729})
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=midnightsun2006)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **midnightsun2006/midnightsun2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
