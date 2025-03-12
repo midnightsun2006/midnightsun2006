@@ -7,7 +7,9 @@ Email : okmy912@ajou.ac.kr
 
 ## Organization
 2022 ~ 2024 : Seoksan High school <br/>
-2025 ~ now : Ajou university(Cyber Security)
+2025 ~ now : Ajou university(Cyber Security) <br/>
+2025 ~ now : Whois(Ajou university)
+
 
 ## Stat
 [![Solved.ac
