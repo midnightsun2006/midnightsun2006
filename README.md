@@ -11,6 +11,9 @@ Email : okmy912@ajou.ac.kr
 2025 ~ now : Whois(Ajou university) <br/>
 2025 ~ now : A.N.S.I(Ajou university)
 
+## Prize
+2022 ~ 2024 : NYPC top500 <br/>
+2025 : AjouHackathon Top Prize <br/>
 
 ## Stat
 [![Solved.ac
