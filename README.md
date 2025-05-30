@@ -9,7 +9,7 @@ Email : okmy912@ajou.ac.kr
 2022 ~ 2024 : Seoksan High school <br/>
 2025 ~ now : Ajou university(Cyber Security) <br/>
 2025 ~ now : Whois(Ajou university) <br/>
-2025 ~ now : A.N.S.I(Ajou university)
+2025 ~ now : HaMer(Ajou university)
 
 ## Prize
 2022 ~ 2024 : NYPC top500 <br/>
