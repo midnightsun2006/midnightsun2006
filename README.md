@@ -12,8 +12,9 @@ Email : okmy912@ajou.ac.kr
 2025 ~ now : HaMer(Ajou university)
 
 ## Prize
-2022 ~ 2024 : NYPC top500 <br/>
-2025 : AjouHackathon Top Prize <br/>
+2022 ~ 2024 : NYPC top500 Award <br/>
+2023 : CPS festival Bronze Award <br/>
+2025 : AjouHackathon Top Award <br/>
 
 ## Stat
 [![Solved.ac
