@@ -18,7 +18,7 @@ Email : okmy912@ajou.ac.kr
 
 ## Stat
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=okmy729)](https://solved.ac/profile/okmy729)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=midnight_sun2006)](https://solved.ac/profile/midnight_sun2006)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=midnightsun2006)](https://github.com/anuraghazra/github-readme-stats)
 
