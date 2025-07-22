@@ -1,7 +1,7 @@
 # About
 
 ## Information
-Name : Cho Yunseo <br/>
+Name : Cho Yunseo (Male) <br/>
 Nickname : okmy729, okmy912, midnight_sun <br/>
 Email : okmy912@ajou.ac.kr
 
@@ -10,7 +10,7 @@ Email : okmy912@ajou.ac.kr
 2025 ~ now : Ajou university(Cyber Security) <br/>
 2025 ~ now : Whois(Ajou university) <br/>
 
-## Prize
+## Award
 2022 ~ 2024 : NYPC top500 Award <br/>
 2023 : CPS festival Bronze Award <br/>
 2025 : AjouHackathon Top Award <br/>
