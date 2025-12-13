@@ -11,10 +11,10 @@ Email : okmy912@ajou.ac.kr
 2025 ~ now : Whois(Ajou university) <br/>
 
 ## Award
-2022 ~ 2024 : NYPC top500 Award <br/>
-2023 : CPS festival Bronze Award <br/>
-2025 : AjouHackathon Top Award <br/>
-
+2022 ~ 2024 : NYPC top500 Award - Nexon <br/>
+2023 : CPS festival Bronze Award - Daegu Technopark <br/>
+2025 : AjouHackathon Top Award(1st) - Ajou University <br/>
+2025 : KDFS Challenge 2025 Top Award(2nd) - Korean National Police Agency <br/>
 ## Stat
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=midnight_sun2006)](https://solved.ac/profile/midnight_sun2006)
