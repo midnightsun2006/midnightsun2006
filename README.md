@@ -12,7 +12,7 @@ Email : okmy912@ajou.ac.kr
 
 ## Award
 2022 ~ 2024 : NYPC top500 Award - Nexon <br/>
-2023 : CPS festival Bronze Award - Daegu Technopark <br/>
+2023 : CPS festival Bronze Award(High School) - Daegu Technopark <br/>
 2025 : AjouHackathon Top Award(1st) - Ajou University <br/>
 2025 : KDFS Challenge 2025 Top Award(2nd) - Korean National Police Agency <br/>
 ## Stat
