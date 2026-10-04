@@ -15,6 +15,7 @@ Email : okmy912@ajou.ac.kr
 2023 : CPS festival Bronze Award(High School) - Daegu Technopark <br/>
 2025 : AjouHackathon Top Award(1st) - Ajou University <br/>
 2025 : KDFS Challenge 2025 Top Award(2nd) - Korean National Police Agency <br/>
+2026 : 2026 HACKSIUM BUSAN Finalist - Ministry of Science and ICT<br/>
 
 ## Scholarship
 2023\. 09\. 17\. : Scholarship for academic excellence and good conduct - Seoksan Scholarship Foundation<br/>
