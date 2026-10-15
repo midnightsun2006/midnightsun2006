@@ -31,7 +31,3 @@ My research interests lie in the security of embedded and real-time systems. I f
 ## Scholarships
 * **2026.03.02. :** Woncheon Scholarship for Academic Excellence - Ajou University
 * **2023.09.17. :** Scholarship for Academic Excellence and Good Conduct - Seoksan Scholarship Foundation
-
-## Stats
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=midnight_sun2006)](https://solved.ac/profile/midnight_sun2006)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=okmy729)](https://solved.ac/profile/okmy729)
