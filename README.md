@@ -5,6 +5,11 @@
 * **Nickname :** okmy729, okmy912, midnight_sun
 * **Email :** okmy912@ajou.ac.kr
 
+## Research Interests
+My research interests lie in the security of embedded and real-time systems. I focus on discovering vulnerabilities in RTOS-based software through fuzzing and code auditing, currently targeting NASA's core Flight System (cFS) running on RTEMS. I am also interested in the isolation guarantees of partitioned RTOSes based on ARINC 653, and in the long run, I aim to work on the security of safety-critical systems in aerospace and defense.
+
+* **Keywords :** Embedded Systems Security, RTOS Security, Vulnerability Research, Fuzzing, Flight Software Security
+
 ## Organization
 * **2025 ~ Present :** Ajou University (Cyber Security)
 * **2025 ~ Present :** Whois (Ajou University)
